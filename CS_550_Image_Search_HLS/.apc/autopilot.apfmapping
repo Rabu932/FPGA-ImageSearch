@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="resize.cpp" path="/home/bugra/Ozu/CS_550/Project/CS_550_Image_Search_HLS/solution1/resize.cpp"/>
+    <originFiles name="ap_bmp.cpp" path="/home/bugra/Ozu/CS_550/Project/CS_550_Image_Search_HLS/src/ap_bmp.cpp"/>
+    <originFiles name="ap_bmp.h" path="/home/bugra/Ozu/CS_550/Project/CS_550_Image_Search_HLS/src/ap_bmp.h"/>
+  </source>
+  <testbench>
+    <originFiles name="main_tb.cpp" path="/home/bugra/Ozu/CS_550/Project/CS_550_Image_Search_HLS/tb/main_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
